@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denisyurovsky junior frontend developer
-- 👀 I’m interested in js, react/vue, nodejs 
+- 👀 I’m interested in js, vue, nodejs 
 - 🌱 I’m currently looking for a job
 
 <!---
