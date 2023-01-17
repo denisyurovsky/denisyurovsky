@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denisyurovsky junior frontend developer
 - 👀 I’m interested in js, vue, nodejs 
-- 🌱 I’m currently looking for a job
+- 🌱 I’m currently not looking for a job
 
 <!---
 denisyurovsky/denisyurovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
